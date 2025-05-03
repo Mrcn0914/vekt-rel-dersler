@@ -1,0 +1,1 @@
+print("Tetris oyununa hoşgeldiniz")
