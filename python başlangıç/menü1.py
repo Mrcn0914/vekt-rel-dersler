@@ -16,7 +16,7 @@ def anamenü():
     print("╚══════════════════════╝")
 
     secim = input()
-    if secim =="1" :
+    if secim =="1" : print("tetris oyununa başlayalım")
         import TETRİS
     anamenü()
 anamenü()
