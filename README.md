@@ -6,3 +6,7 @@
 * kare-dikdörtgen çevresi hesaplama
 
 deneme
+<br>
+deneme2
+deneme çalışması
+deneme 3 çalışması
