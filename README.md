@@ -6,3 +6,4 @@
 * kare-dikdörtgen çevresi hesaplama
 
 deneme
+deneme çalışması
