@@ -4,3 +4,5 @@
 * if-else-elif çalışmaları
 * Bilmece oyunu 
 * kare-dikdörtgen çevresi hesaplama
+
+deneme

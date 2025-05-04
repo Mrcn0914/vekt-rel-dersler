@@ -1,0 +1,4 @@
+## ders konuları
+*print
+*input
+

@@ -1,7 +1,0 @@
-print("Merhaba")
-print("Mercan Kalkan")
-print("******Öğrenci Bilgileri******\nAdı:\tMercan\nSoyadı:\tKalkan\nno:\t782" )
-print("Beril\'in annesi eve giderken markete uğradı")
-print("Markette arkadaşlarını görüp nasılsınız diye sordu?")
-print("Mercan"*20)
-print("Mercan\n"*20)

@@ -1,6 +1,0 @@
-print("Merhaba")
-ad=input("Adın ne?")
-print("Demek adın",ad)
-print("Adın güzelmiş",ad+".")
-dy=int(input("Kaç yılında doğdun?"))
-print("Demek",2025-dy,"yaşındasın",ad)
