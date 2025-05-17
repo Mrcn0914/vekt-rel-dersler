@@ -1,0 +1,2 @@
+for a,b in  enumerate("Mercankalkan ,1"):
+    print(a*b)
