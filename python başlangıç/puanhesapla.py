@@ -1,4 +1,4 @@
-def puanhesapla():
+def puanmenu():
     print("Puan Hesaplama")
     print("*******************\n")
 
@@ -22,4 +22,4 @@ def puanhesapla():
 
 # Bu satır fonksiyonun doğru şekilde çağrılmasını sağlar
 if __name__ == "__main__":
-    puanhesapla()
+    puanmenu()

@@ -17,27 +17,27 @@ def anaekran():
         secim = input("Seçiminizi girin (1-7): ")
 
         if secim == "1":
-            import hesapmakinesi
-            hesapmakinesi()
+            import hesapmakinesı
+            hesapmakinesı.hmmenu()
         elif secim == "2":
             import tahminoyunu
             tahminoyunu.tahmin_et()
         elif secim == "3":
             import vki_hesaplama
-            vki_hesaplama()
+            vki_hesaplama.vkıhesap()
         elif secim =="4":
-            import kurdönüstürücü
-            kurdönüstürücü()  
+            import kurhesaplama
+            kurhesaplama.kurmenu()
         elif secim =="5" :
             import puanhesapla
-            puanhesapla()
+            puanhesapla.puanmenu()
     
         elif secim =="6" :
             import ruhhalinisoyle
             ruhhalinisoyle.ruh_hali_oyunu()
         elif secim =="7":
             import geometrıksekıller
-            geometrıksekıller()
+            geometrıksekıller.geometrıkmenu()
         elif secim == "0":
             print("Çıkılıyor...")
             break
@@ -45,5 +45,6 @@ def anaekran():
             print("Geçersiz seçim! Lütfen 1-7 arasında bir seçim yapın.")
 
         input("\nDevam etmek için Enter'a basın...")
+        anaekran()
     
 anaekran()
